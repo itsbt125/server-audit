@@ -27,6 +27,7 @@ For complete results, run as `root` or with passwordless `sudo`. Without elevate
 Run directly from the project directory with root privileges:
 
 ```bash
+chmod +x server-audit
 sudo ./server-audit
 ```
 
